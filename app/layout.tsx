@@ -31,8 +31,8 @@ export const metadata: Metadata = {
   ],
   authors: [
     {
-      name: "faultyled",
-      url: "https://github.com/giacomogaglione",
+      name: "NICO",
+      url: "https://github.com/",
     },
   ],
   creator: "faultyled",
