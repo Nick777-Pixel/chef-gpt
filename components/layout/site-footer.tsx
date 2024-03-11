@@ -11,9 +11,9 @@ export function SiteFooter() {
           rel="noreferrer"
           className="font-medium underline underline-offset-4"
         >
-          faultyled
+          NICO
         </a>
-        . The source code is available on{" "}
+        . New features coming soon 🎉 {" "}
         <a
           href={siteConfig.links.github}
           target="_blank"
