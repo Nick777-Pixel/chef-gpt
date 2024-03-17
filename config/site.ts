@@ -7,13 +7,13 @@ export const siteConfig = {
   description: "Recipe generator powered by OpenAi and ChatGPT.",
   mainNav: [
     {
-      title: "Chef Genie Homepage",
+      title: "CookPal Homepage",
       href: "/",
     },
   ],
   links: {
     twitter: "https://twitter.com/nicholast1998",
-    github: "https://github.com/",
+    github: " ",
     docs: "https://cookpal.vercel.app",
   },
 }

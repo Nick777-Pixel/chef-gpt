@@ -110,8 +110,7 @@ export function SiteHeader({ user }: SiteHeaderProps) {
                   className: "md:ml-3",
                 })}
               >
-                <Icons.gitHub className="size-4 md:size-5" />
-                <span className="sr-only">GitHub</span>
+
               </div>
             </Link>
             <ThemeToggle />
