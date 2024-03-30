@@ -6,7 +6,6 @@ import {
   PageHeaderDescription,
   PageHeaderHeading,
 } from "@/components/layout/page-header"
-import { RecentRecipes } from "@/components/recent-recipes"
 import { RecipesCounter } from "@/components/recipes-counter"
 
 export default async function IndexPage() {
@@ -25,9 +24,6 @@ export default async function IndexPage() {
         </PageHeaderDescription>
       </PageHeader>
       <GenerateRecipe />
-      <Suspense>
-        <RecentRecipes />
-      </Suspense>
     </div>
   )
 }
