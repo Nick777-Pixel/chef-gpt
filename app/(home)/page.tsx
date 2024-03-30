@@ -16,7 +16,7 @@ export default async function IndexPage() {
         <PageHeaderHeading>
           Say goodbye to mealtime indecision with
           <span className="bg-gradient-to-r from-violet-500 to-teal-300 bg-clip-text text-transparent">
-            {" Chef Genie"}
+            {" NicoPrep"}
           </span>
         </PageHeaderHeading>
         <PageHeaderDescription>
