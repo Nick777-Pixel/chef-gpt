@@ -1,19 +1,19 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "CookPal Genie",
-  url: "https://chef-genie.app",
+  name: "NicoPrep",
+  url: "https://nicoprep.com",
   ogImage: "https://chef-genie.app/og.png",
-  description: "Recipe generator powered by OpenAi and ChatGPT.",
+  description: "Recipe & meal prep generator powered by OpenAI.",
   mainNav: [
     {
-      title: "CookPal Homepage",
+      title: "NicoPrep Homepage",
       href: "/",
     },
   ],
   links: {
-    twitter: "https://twitter.com/nicholast1998",
+    twitter: "https://twitter.com/nicot9898",
     github: " ",
-    docs: "https://cookpal.vercel.app",
+    docs: "https://nicoprep.com",
   },
 }
