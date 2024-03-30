@@ -12,7 +12,7 @@ import { cn } from "@/lib/utils"
 import { ThemeProvider } from "@/components/theme-provider"
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://chef-genie.app"),
+  metadataBase: new URL("https://nicoprep.com"),
   title: {
     default: siteConfig.name,
     template: `%s - ${siteConfig.name}`,
