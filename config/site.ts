@@ -3,7 +3,7 @@ export type SiteConfig = typeof siteConfig
 export const siteConfig = {
   name: "NicoPrep",
   url: "https://nicoprep.com",
-  ogImage: "https://chef-genie.app/og.png",
+  ogImage: "https://nicoprep.com/og.png",
   description: "Recipe & meal prep generator powered by OpenAI.",
   mainNav: [
     {
